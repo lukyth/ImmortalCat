@@ -8,7 +8,7 @@ A Minecraft plugin that makes cats immortal.
 
 ## Usage
 
-1. Move `/target/ImmortalCat-1.0.jar` to `/plugins` in your Minecraft Paper/Spigot server.
+1. Move `/target/ImmortalCat-1.0.0.jar` to `/plugins` in your Minecraft Paper/Spigot server.
 2. Restart the server.
 
 ## Build
